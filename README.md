@@ -76,7 +76,7 @@ Segue algumas abaixo:
 
 Hoje no Brasil já existe algumas exchanges(casas de cambios) que realizam trocas entre BRL x BTC, Real Brasileiro e Bitcoin respectivamente.
 
-Baixo temos uma imagem do site [exchangewar.info](http://exchangewar.info/coinprice?BTC_BRL) que informa dados de exchanges:
+Abaixo temos uma imagem do site [exchangewar.info](http://exchangewar.info/coinprice?BTC_BRL) que informa dados de exchanges:
 ![BTCBRL Exchange War 01-11-2015](/img/BTCBRL-Exchange-War-01-11-2015.png "BTCBRL Exchange War 01-11-2015")
 
 Para utilizar é necessário preencher um cadastro e enviar Bitcoins para trocar por Real Brasileiro ou o contrário com uma transfência bancária.
