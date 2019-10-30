@@ -192,7 +192,7 @@ No [coinmarketcap](http://coinmarketcap.com/) é possível ver alguns dados inte
 **Livros:**
 
 - [Bitcoin - A Moeda na era Digital](https://www.mises.org.br/Ebook.aspx?id=99 "Bitcoin - A Moeda na era Digital")
-- [Mastering Bitcoin](https://btcparaprogramadores.marcoagner.org/)
+- [Bitcoin para Programadores](https://btcparaprogramadores.marcoagner.org/)
 - [Mastering Bitcoin](https://bitcoinbook.info/wp-content/translations/pt_BR/book.pdf)
 - Bitcoin Programming by Mostafa Farghaly
 
