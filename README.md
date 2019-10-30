@@ -81,7 +81,7 @@ Abaixo temos uma imagem do site [exchangewar.info](http://exchangewar.info/coinp
 
 Para utilizar é necessário preencher um cadastro e enviar Bitcoins para trocar por Real Brasileiro ou o contrário com uma transfência bancária.
 
-Também é possével comprar diretamente de um algum negociador de bitcoin na comunidade.
+Também é possível comprar diretamente de um algum negociador de bitcoin na comunidade.
 
 **Video:**
 
