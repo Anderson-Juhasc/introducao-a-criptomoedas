@@ -87,10 +87,6 @@ Também é possével comprar diretamente de um algum negociador de bitcoin na co
 
 - [Bitcoin: GUIA PRÁTICO para iniciantes](https://www.youtube.com/watch?v=Xz3UaCk577I)
 
-**Ferramenta:**
-
-- [BTCBRL Conversor Bitcoin para Real Brasileiro](http://www.btcbrl.info/#/)
-
 ## 7. Quem aceita/usa?
 
 ![Coinmap](/img/coinmap.png "Coinmap")
@@ -121,7 +117,7 @@ Segue alguns links:
 
 ![Faucet Bitcoin](/img/faucet-bitcoin.jpg "Faucet Bitcoin")
 
-Fontes de bitcoins são sites que lhe pagam para acessar suas páginas e preencher com um endereço bitcoin e um campo de CAPTCHA a cada x minutos, mas o tempo em que você irá passar nelas não valerá a pena o ganho.
+Fontes de bitcoins são sites que lhe pagam para acessar suas páginas e preencher com um endereço bitcoin e um campo de CAPTCHA a cada x minutos, mas o tempo em que você irá passar nelas não valerá a pena o ganho em curto prazo.
 
 **Segue uma lista:**
 
@@ -191,34 +187,22 @@ No [coinmarketcap](http://coinmarketcap.com/) é possível ver alguns dados inte
 - [CryptoCoinJS](http://cryptocoinjs.com/ "CryptoCoinJS")
 - [PHPCoinAddress](https://github.com/zamgo/PHPCoinAddress "PHPCoinAddress")
 
-## 14. Análise de sistemas de pagamentos Bitcoin
-
-**Fazer:**
-
-- Formulário de pagamento
-- Gerando endereços de recebimento
-- Pegar a cotacão de bitcoin em Real
-- Guardar dados de pagamento
-- Exibir uma página de pagamento
-- Verificar se existe saldo no endereço explorando o Blockchain
-- Mostrar tela de sucesso
-
 ## 15. Referências
 
 **Livros:**
 
-- [Bitcoin - A Moeda na era Digital](https://bitcore.io/ "Bitcoin - A Moeda na era Digital")
-- [Mastering Bitcoin]()
-- [Bitcoin Programming Book]()
+- [Bitcoin - A Moeda na era Digital](https://www.mises.org.br/Ebook.aspx?id=99 "Bitcoin - A Moeda na era Digital")
+- [Mastering Bitcoin](https://btcparaprogramadores.marcoagner.org/)
+- [Mastering Bitcoin](https://bitcoinbook.info/wp-content/translations/pt_BR/book.pdf)
+- Bitcoin Programming by Mostafa Farghaly
 
 **Comunidade:**
 
 - [Forum BitcoinTalk](https://bitcointalk.org/)
 - [Subreddit bitcoin](https://www.reddit.com/r/bitcoin)
 - [Subreddit obitcoin](https://www.reddit.com/r/obitcoin)
-- [Bitcoin Brasil Facebook 1](https://www.facebook.com/groups/btcbr/)
-- [Bitcoin Brasil Facebook 2](https://www.facebook.com/groups/bitcoin.brasil.2/)
-- [Bitcoin Brasil Desenvolvedores](https://www.facebook.com/groups/btcbrdev/)
+- [Bitcoin Brasil - Facebook](https://www.facebook.com/groups/bitcoin.brasil.2/)
+- [Bitcoin Brasil Desenvolvedores - Facebook](https://www.facebook.com/groups/btcbrdev/)
 
 **Canais no Youtube:**
 
