@@ -2,7 +2,7 @@
 
 ## Resumo
 
-O curso se destina a programadores e interessados que querem aprender mais sobre as criptomoedas, opensource, um pouco de criptografia e o funcionamento de redes descentralizadas.
+O curso se destina a quaisquer interessados que querem aprender mais sobre Bitcoin e outras criptomoedas, um pouco de criptografia e o seus funcionamentos.
 
 ## 1. Sobre o Ministrando
 
